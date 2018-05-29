@@ -1,11 +1,11 @@
-/**
+﻿/**
  * Copyright(C) 2017 Luvina
  * TblUserDao.java Oct 20, 2017 minhhang
  */
 package manageuser.dao;
 
 import java.sql.SQLException;
-import java.util.List;
+import java.util
 
 import manageuser.entities.TblUser;
 import manageuser.entities.UserInfor;
